@@ -2,7 +2,6 @@
   "name": "vue-iconly",
   "description": "Simply Beautiful Iconly Pack",
   "version": "1.0.0",
-  "private": true,
   "main": ".dist/vue-iconly.common.js",
   "files": [
     "dist/*"
