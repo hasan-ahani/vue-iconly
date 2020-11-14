@@ -8,7 +8,7 @@ npm i vue-iconly
 ## Usage
 ```
 // in main vue js
-import Iconly from "./install";
+import Iconly from "vue-iconly";
 
 Vue.use(Iconly);
 ```

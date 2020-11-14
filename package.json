@@ -2,9 +2,9 @@
   "name": "vue-iconly",
   "description": "Simply Beautiful Iconly Pack",
   "version": "1.0.0",
-  "main": ".dist/vue-iconly.common.js",
+  "main": "dist/vue-iconly.common.js",
   "files": [
-    "dist/*"
+    "dist"
   ],
   "author": {
     "name": "Hasan Ahani",
