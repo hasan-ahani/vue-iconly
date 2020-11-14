@@ -1,7 +1,7 @@
 {
   "name": "vue-iconly",
   "description": "Simply Beautiful Iconly Pack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/vue-iconly.common.js",
   "files": [
     "dist"
